@@ -1,0 +1,6 @@
+text_document
+
+este es un documento de prueba
+para el repositorio de git
+
+mi nombre es Anderson Candanoza
