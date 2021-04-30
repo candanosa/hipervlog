@@ -3,4 +3,5 @@ text_document
 este es un documento de prueba
 para el repositorio de git
 
-mi nombre es Anderson Candanoza
+mi nombre es Andersson Candanosa, tengo 23 años
+y quiero hacer grandes cosas
